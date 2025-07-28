@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @cancrpcoglu
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning
-- 🌱 I know C/C++ and Python
-- 💞️ I’m looking to collaborate on AI, ML and DL development
-- 📫 How to reach me? You can mail me on gmail, cancorapcioglu1@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I used to play American Football at Atılım University
-- VISIT MY [WEB PAGE](https://cancrpcoglu.github.io/website/)
+-🎓 Final-year Computer Engineering student at Atılım University
+💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Software Development
+🚀 Experienced in developing web, mobile, and deep learning applications
+🛠️ Languages & Tools: C | C++ | Python | React Native | Flask | Laravel
+🔍 Exploring Large Language Models (LLMs), image predictions like Convolutional Neural Networks(CNN) and OCR-based image processing
+📨 Reach me: cancorapcioglu1@gmail.com
+🌐 Visit my website
+🏈 Fun fact: I used to play American Football at Atılım University
 <!---
 cancrpcoglu/cancrpcoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
