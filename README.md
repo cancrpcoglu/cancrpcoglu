@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cancrpcoglu
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning
-- 🌱 I’m currently learning Java programming language and I also know C/C++ and Python
+- 🌱 I know C/C++ and Python
 - 💞️ I’m looking to collaborate on AI, ML and DL development
 - 📫 How to reach me? You can mail me on gmail, cancorapcioglu1@gmail.com
 - 😄 Pronouns: He
